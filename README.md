@@ -73,7 +73,7 @@
 
 
 
-![Snake animation]([https://github.com/BarbRosangela1980/rosangela-principalblob/output/github-contribution-grid-snake.svg])
-   <p  class="copyright"></a>© Desenvolvido por <strong>BarbRosangela1980</strong> | 2023</p>
+
+   <p  class="copyright"></a>© Desenvolvido por <strong>Rosângela Barbosa</strong> | 2023</p>
 
 </div>
